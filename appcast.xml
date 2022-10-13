@@ -1,14 +1,15 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0" >
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
 		<title>AutoUpdate</title>
 		<link>https://github.com/Pudge-30/AutoUpdaterXML/blob/main/appcast.xml</link>	
-		<description>Most recent changes with links to updates</description>
+		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
 		<item>
-			<title>AutoUpdate 2.0.0</title>
-			<sparkle:releaseNotesLink>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md </sparkle:releaseNotesLink>
+			<title>AutoUpdate 2.0 (2 bugs fixed; 3 new features)</title>
+			<sparkle:releaseNotesLink>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
+			</sparkle:releaseNotesLink>
 			<pubDate>Thu, 13 Oct 2022 14:47:17 +08:00</pubDate>
-			<enclosure url="https://github.com/Pudge-30/AutoUpdaterXML/upload/main/Cube2.0.0.exe" sparkle:version="2.0" length="7230464" type="application/octet-stream" sparkle:signature="isk8lqctjBXgmFe68ubMrqfbmCvTgEpVAHKwI9okHulyjU1rDrjhK/t806yPbITnhSQezYF2kJ1H88SaYeQBDQ==" />
+			<enclosure url="https://github.com/Pudge-30/AutoUpdaterXML/upload/main/Cube2.0.0.exe" sparkle:version="2.0" length="7230464" type="application/octet-stream" sparkle:signature="isk8lqctjBXgmFe68ubMrqfbmCvTgEpVAHKwI9okHulyjU1rDrjhK/t806yPbITnhSQezYF2kJ1H88SaYeQBDQ=="/>
 		</item>
 	</channel>
 </rss>
