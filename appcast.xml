@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0" >
 	<channel>
+		<link>https://github.com/Pudge-30/AutoUpdaterXML/blob/main/appcast.xml</link>	
 		<title>AutoUpdate</title>
 		<description>Most recent changes with links to updates</description>
 		<language>en</language>
